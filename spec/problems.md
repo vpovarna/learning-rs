@@ -15,8 +15,8 @@ For each puzzle, solve both parts, then compare with others' Rust solutions. Tha
 - [X] 1. **2024 D1 Historian Hysteria**: `sort`, `zip`, `iter().sum()`
 - [X] 2. **2022 D1 Calorie Counting**: `split`, `map`, `collect`
 - [X] 3. **2024 D2 Red-Nosed Reports**: `windows()`, `all`/`any`
-- [ ] 4. **2022 D6 Tuning Trouble**: slices and `windows()`
-- [ ] 5. **2023 D1 Trebuchet?!**: `&str` vs `String`, `find` returning `Option`
+- [X] 4. **2022 D6 Tuning Trouble**: slices and `windows()`
+- [X] 5. **2023 D1 Trebuchet?!**: `&str` vs `String`, `find` returning `Option`
 - [ ] 6. **2022 D3 Rucksack Reorganization**: `HashSet`, `chars` vs `bytes`
 - [ ] 7. **2022 D4 Camp Cleanup**: implement `FromStr`, return `Result`
 - [ ] 8. **2023 D2 Cube Conundrum**: structs and parsing into them
