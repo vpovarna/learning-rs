@@ -17,7 +17,7 @@ For each puzzle, solve both parts, then compare with others' Rust solutions. Tha
 - [X] 3. **2024 D2 Red-Nosed Reports**: `windows()`, `all`/`any`
 - [X] 4. **2022 D6 Tuning Trouble**: slices and `windows()`
 - [X] 5. **2023 D1 Trebuchet?!**: `&str` vs `String`, `find` returning `Option`
-- [ ] 6. **2022 D3 Rucksack Reorganization**: `HashSet`, `chars` vs `bytes`
+- [X] 6. **2022 D3 Rucksack Reorganization**: `HashSet`, `chars` vs `bytes`
 - [ ] 7. **2022 D4 Camp Cleanup**: implement `FromStr`, return `Result`
 - [ ] 8. **2023 D2 Cube Conundrum**: structs and parsing into them
 
