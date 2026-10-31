@@ -18,14 +18,14 @@ For each puzzle, solve both parts, then compare with others' Rust solutions. Tha
 - [X] 4. **2022 D6 Tuning Trouble**: slices and `windows()`
 - [X] 5. **2023 D1 Trebuchet?!**: `&str` vs `String`, `find` returning `Option`
 - [X] 6. **2022 D3 Rucksack Reorganization**: `HashSet`, `chars` vs `bytes`
-- [ ] 7. **2022 D4 Camp Cleanup**: implement `FromStr`, return `Result`
-- [ ] 8. **2023 D2 Cube Conundrum**: structs and parsing into them
+- [X] 7. **2022 D4 Camp Cleanup**: implement `FromStr`, return `Result`
+- [X] 8. **2023 D2 Cube Conundrum**: structs and parsing into them
 
 ### Phase 2: Enums, match, Option
 
 - [ ] 9. **2022 D2 Rock Paper Scissors**: enums with `impl` methods
 - [ ] 10. **2022 D10 Cathode-Ray Tube**: enum instructions, a simple VM
-- [ ] 11. **2023 D7 Camel Cards**: `derive(PartialOrd, Ord)` on enums, custom sorting
+- [X] 11. **2023 D7 Camel Cards**: `derive(PartialOrd, Ord)` on enums, custom sorting
 - [ ] 12. **2024 D7 Bridge Repair**: an operator enum and recursion
 - [ ] 13. **2023 D15 Lens Library**: an enum carrying data (`Remove`, `Insert(u8)`)
 - [ ] 14. **2024 D3 Mull It Over**: a hand-written parser (then try the `regex` crate)
